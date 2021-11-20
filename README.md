@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaylinlux
 - 👀 I’m interested in front end development.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on e commerce and social networking projects.
+- 💞️ I’m looking to collaborate on all kinds of projects.
 - 📫 How to reach me on instagram @kyntaurii
 
 <!---
